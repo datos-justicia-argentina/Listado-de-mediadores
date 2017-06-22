@@ -59,16 +59,16 @@ Recursos disponibles
 
 ### Notas
 
-**Ambito de vigencia:** La información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires
+**Ambito de vigencia:** La información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires.
 
-**“Mediador”:** La referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados
+**“Mediador”:** La referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados.
 
-**Identidad**: La referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”
+**Identidad**: La referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”.
 
-**“Mediación”:** La referencia “mediación” en “datos de mediaciones” es un número que anonimiza la referencia a una mediación real de la cual se exponen datos
+**“Mediación”:** La referencia “mediación” en “datos de mediaciones” es un número que anonimiza la referencia a una mediación real de la cual se exponen datos.
 
-**Posibilidad de cruzamiento:** Luego es posible obtener cruzamientos entre los datos de “mediadores” y de “mediaciones”
+**Posibilidad de cruzamiento:** Luego es posible obtener cruzamientos entre los datos de “mediadores” y de “mediaciones”.
 
-**Resultados de las mediaciones**: Al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado
+**Resultados de las mediaciones**: Al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
 
-**Fecha de finalización mediaciones:** La fecha de finalización de la mediación es la correspondiente a la última audiencia
+**Fecha de finalización mediaciones:** La fecha de finalización de la mediación es la correspondiente a la última audiencia.
