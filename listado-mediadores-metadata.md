@@ -1,4 +1,4 @@
-Registro de mediadores
+Listado de mediadores
 ======================
 
 Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.
@@ -25,7 +25,7 @@ Recursos disponibles
 
 ### Mediadores prejudiciales y judiciales
 
--   **Nombre del archivo:** mediadores-prejudiciales-judiciales.csv
+-   **Nombre del archivo:** listado-mediadores-estado-al-dd-mm-aaaa.csv
 
 -   **Descripción del contenido:** Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
 
