@@ -45,11 +45,11 @@ Recursos disponibles
 
 -   **fecha_rematriculacion_familiar (date):** Fecha de rematriculación como mediador familiar
 
--   **motivo_exclusion (string):** Comprende licencias solicitadas o sanciones disciplinarias aplicadas.
+-   **motivo_exclusion (string):** Comprende licencias solicitadas o sanciones disciplinarias aplicadas
 
--   **exclusión_desde (date):** Fecha desde la cual hay un motivo de exclusión.
+-   **exclusión_desde (date):** Fecha desde la cual hay un motivo de exclusión
 
--   **exclusión_hasta (date):** Fecha hasta la cual hay un motivo de exclusión.
+-   **exclusión_hasta (date):** Fecha hasta la cual hay un motivo de exclusión
 
 -   **genero (string):** Género del mediador
 
