@@ -23,15 +23,15 @@ Características
 Recursos disponibles
 --------------------
 
-### Mediadores prejudiciales y judiciales
+### Mediadores prejudiciales y judiciales - AAAA-MM
 
--   **Nombre del archivo:** listado-mediadores-estado-al-dd-mm-aaaa.csv
+-   **Nombre del archivo:** listado-mediadores-AAAA-MM.csv
 
 -   **Descripción del contenido:** Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Desde 1996 hasta la fecha
+-   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
