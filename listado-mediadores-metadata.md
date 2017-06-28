@@ -27,48 +27,48 @@ Recursos disponibles
 
 -   **Nombre del archivo:** listado-mediadores-AAAA-MM.csv
 
--   **Descripción del contenido:** Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
+-   **Descripción del contenido:** listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **mediador (int):** Identificación anonimizada del mediador
+-   **mediador (int):** identificación anonimizada del mediador
 
--   **rematriculado (string):** Indica si el mediador se rematriculó a partir del año 2010. Valores Si/No
+-   **rematriculado (string):** indica si el mediador se rematriculó a partir del año 2010. Valores Si/No
 
--   **fecha_rematriculacion (date):** Fecha de rematriculación
+-   **fecha_rematriculacion (date):** fecha de rematriculación
 
--   **es_mediador_familiar (string):** Indica si el mediador es mediador familiar. Valores Si/No
+-   **es_mediador_familiar (string):** indica si el mediador es mediador familiar. Valores Si/No
 
--   **fecha_rematriculacion_familiar (date):** Fecha de rematriculación como mediador familiar
+-   **fecha_rematriculacion_familiar (date):** fecha de rematriculación como mediador familiar
 
--   **motivo_exclusion (string):** Comprende licencias solicitadas o sanciones disciplinarias aplicadas
+-   **motivo_exclusion (string):** comprende licencias solicitadas o sanciones disciplinarias aplicadas
 
--   **exclusión_desde (date):** Fecha desde la cual hay un motivo de exclusión
+-   **exclusión_desde (date):** fecha desde la cual hay un motivo de exclusión
 
--   **exclusión_hasta (date):** Fecha hasta la cual hay un motivo de exclusión
+-   **exclusión_hasta (date):** fecha hasta la cual hay un motivo de exclusión
 
--   **genero (string):** Género del mediador
+-   **genero (string):** género del mediador
 
--   **edad (int):** Edad del mediador
+-   **edad (int):** edad del mediador
 
--   **barrio (string):** Barrio en el que se desempeña el mediador
+-   **barrio (string):** barrio en el que se desempeña el mediador
 
 ### Notas
 
-**Ambito de vigencia:** La información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires.
+**Ambito de vigencia:** la información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires.
 
-**“Mediador”:** La referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados.
+**“Mediador”:** la referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados.
 
-**Identidad**: La referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”.
+**Identidad**: la referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”.
 
-**“Mediación”:** La referencia “mediación” en “datos de mediaciones” es un número que anonimiza la referencia a una mediación real de la cual se exponen datos.
+**“Mediación”:** la referencia “mediación” en “datos de mediaciones” es un número que anonimiza la referencia a una mediación real de la cual se exponen datos.
 
-**Posibilidad de cruzamiento:** Luego es posible obtener cruzamientos entre los datos de “mediadores” y de “mediaciones”.
+**Posibilidad de cruzamiento:** luego es posible obtener cruzamientos entre los datos de “mediadores” y de “mediaciones”.
 
-**Resultados de las mediaciones**: Al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
+**Resultados de las mediaciones**: al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
 
-**Fecha de finalización mediaciones:** La fecha de finalización de la mediación es la correspondiente a la última audiencia.
+**Fecha de finalización mediaciones:** la fecha de finalización de la mediación es la correspondiente a la última audiencia.
