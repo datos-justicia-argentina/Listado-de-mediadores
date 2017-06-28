@@ -6,7 +6,7 @@ Listado de mediadores registrados para realizar mediaciones prejudiciales y judi
 Características
 ---------------
 
--   **Fecha de Publicación:** 01/06/2017
+-   **Fecha de Primera Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** mediación, mediadores
 
