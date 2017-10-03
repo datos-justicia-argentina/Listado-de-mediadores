@@ -47,9 +47,9 @@ Recursos disponibles
 
 -   **motivo_exclusion (string):** comprende licencias solicitadas o sanciones disciplinarias aplicadas
 
--   **exclusión_desde (date):** fecha desde la cual hay un motivo de exclusión
+-   **exclusion_desde (date):** fecha desde la cual hay un motivo de exclusión
 
--   **exclusión_hasta (date):** fecha hasta la cual hay un motivo de exclusión
+-   **exclusion_hasta (date):** fecha hasta la cual hay un motivo de exclusión
 
 -   **genero (string):** género del mediador
 
