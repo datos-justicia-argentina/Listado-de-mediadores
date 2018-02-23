@@ -1,7 +1,7 @@
 Listado de mediadores
 ======================
 
-Listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.
+En este conjunto de datos se detalla el listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.
 
 Características
 ---------------
