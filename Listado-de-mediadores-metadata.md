@@ -3,12 +3,14 @@ Listado de mediadores
 
 En este conjunto de datos se detalla el listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE.
 
+http://datos.jus.gob.ar/dataset/listado-de-mediadores
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 28/06/2017
 
--   **Tags o Etiquetas:** mediación, mediadores
+-   **Tags o Etiquetas:** mediaciones, mediadores
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** listado-mediadores-AAAA-MM.csv
 
--   **Descripción del contenido:** listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
+-   **Descripción del contenido:** se detalla el listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
