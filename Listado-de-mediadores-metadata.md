@@ -65,12 +65,14 @@ Recursos disponibles
 
 **“Mediador”:** la referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados.
 
-**Identidad**: la referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”.
+**Identidad:** la referencia “mediador” de “datos de mediadores” guarda identidad con la que figura en la columna “mediador” en “datos de mediaciones”.
 
 **“Mediación”:** la referencia “mediación” en “datos de mediaciones” es un número que anonimiza la referencia a una mediación real de la cual se exponen datos.
 
 **Posibilidad de cruzamiento:** luego es posible obtener cruzamientos entre los datos de “mediadores” y de “mediaciones”.
 
-**Resultados de las mediaciones**: al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
+**Resultados de las mediaciones:** al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
 
 **Fecha de finalización mediaciones:** la fecha de finalización de la mediación es la correspondiente a la última audiencia.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
