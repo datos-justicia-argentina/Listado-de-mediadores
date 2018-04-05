@@ -59,6 +59,14 @@ Recursos disponibles
 
 -   **barrio (string):** barrio en el que se desempeña el mediador
 
+### Listado de mediadores - AAAA
+
+- **Nombre:** listado-mediadores-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 ### Notas
 
 **Ambito de vigencia:** la información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires.
