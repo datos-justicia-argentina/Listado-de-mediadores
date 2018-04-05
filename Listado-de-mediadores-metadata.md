@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Mediadores prejudiciales y judiciales - AAAA-MM
+### Listado de mediadores - AAAA-MM
 
 -   **Nombre del archivo:** listado-mediadores-AAAA-MM.csv
 
