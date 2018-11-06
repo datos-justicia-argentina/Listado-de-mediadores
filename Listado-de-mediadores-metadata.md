@@ -69,6 +69,8 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 **Ambito de vigencia:** la información corresponde al Registro de Mediadores y a Mediaciones realizadas en el contexto de la Ley N° 26.589, vigente en el ámbito de la Ciudad Autónoma de Buenos Aires.
 
 **“Mediador”:** la referencia “mediador” es un número correspondiente a un mediador real que anonimiza la referencia y guarda coherencia con todos sus datos publicados.
