@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de mediadores - AAAA-MM
+### Listado de mediadores - AAAAMM
 
--   **Nombre del archivo:** listado-mediadores-AAAA-MM.csv
+-   **Nombre del archivo:** listado-mediadores-AAAAMM.csv
 
 -   **Descripción del contenido:** se detalla el listado de mediadores registrados para realizar mediaciones prejudiciales y judiciales en el Sistema MEPRE
 
